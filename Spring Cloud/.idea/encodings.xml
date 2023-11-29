@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Spring Archive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Bussiness/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring DAL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Mongo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring Transformer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../liquibase-with-springboot-master/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+<!--    <include file="db/changelog/liquibase-outputChangeLog-ddl.mssql.sql"/>-->
+<!--    <include file="db/changelog/liquibase-outputChangeLog-dml.mssql.sql"/> -->
+    <include file="db/changelog/liquibase-outputChangeLog-ddl.oracle.sql"/>
+<!--    <include file="db/changelog/liquibase-outputChangeLog-dml.oracle.sql"/>-->
+</databaseChangeLog>

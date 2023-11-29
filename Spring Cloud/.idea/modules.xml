@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Spring Archive/springarchive.iml" filepath="$PROJECT_DIR$/../Spring Archive/springarchive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Bussiness/springbusiness.iml" filepath="$PROJECT_DIR$/../Spring Bussiness/springbusiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring DAL/springdal.iml" filepath="$PROJECT_DIR$/../Spring DAL/springdal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Eureka/springeureka.iml" filepath="$PROJECT_DIR$/../Spring Eureka/springeureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Gateway/springgateway.iml" filepath="$PROJECT_DIR$/../Spring Gateway/springgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liquibase-with-springboot-master/springliquibase.iml" filepath="$PROJECT_DIR$/../liquibase-with-springboot-master/springliquibase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Mongo/springmongo.iml" filepath="$PROJECT_DIR$/../Spring Mongo/springmongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Redis/springredis.iml" filepath="$PROJECT_DIR$/../Spring Redis/springredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Security/springsecurity.iml" filepath="$PROJECT_DIR$/../Spring Security/springsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring Transformer/springtransform.iml" filepath="$PROJECT_DIR$/../Spring Transformer/springtransform.iml" />
+    </modules>
+  </component>
+</project>

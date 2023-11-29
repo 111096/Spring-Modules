@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmongo" />
+        <module name="springcloud" />
+        <module name="springdal" />
+        <module name="springtransform" />
+        <module name="springarchive" />
+        <module name="springgateway" />
+        <module name="springeureka" />
+        <module name="springbusiness" />
+        <module name="springredis" />
+        <module name="springsecurity" />
+        <module name="springliquibase" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springarchive" target="11" />
+      <module name="springbatch" target="11" />
+      <module name="springbusiness" target="11" />
+      <module name="springcloud" target="11" />
+      <module name="springdal" target="11" />
+      <module name="springeureka" target="11" />
+      <module name="springgateway" target="11" />
+      <module name="springliquibase" target="11" />
+      <module name="springmongo" target="11" />
+      <module name="springredis" target="11" />
+      <module name="springsecurity" target="11" />
+      <module name="springtransform" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springarchive" options="-parameters" />
+      <module name="springbatch" options="-parameters" />
+      <module name="springbusiness" options="-parameters" />
+      <module name="springcloud" options="-parameters" />
+      <module name="springdal" options="-parameters" />
+      <module name="springeureka" options="-parameters" />
+      <module name="springgateway" options="-parameters" />
+      <module name="springliquibase" options="-parameters" />
+      <module name="springmongo" options="-parameters" />
+      <module name="springredis" options="-parameters" />
+      <module name="springsecurity" options="-parameters" />
+      <module name="springtransform" options="-parameters" />
+    </option>
+  </component>
+</project>
